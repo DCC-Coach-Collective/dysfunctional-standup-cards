@@ -99,7 +99,7 @@ The game is based on a set of good stand-up traits, listed below. Dysfunctions i
 
 * **Focus** - On the work and each other
 
-* **Brevity **(or succinctness) - Of each person's contribution, responses and the meeting itself
+* **Brevity** (or succinctness) - Of each person's contribution, responses and the meeting itself
 
 * **Autonomy** - The meeting serves the team.  The team have the autonomy to choose the format and style
 
@@ -111,7 +111,7 @@ The game is based on a set of good stand-up traits, listed below. Dysfunctions i
 
 * **Energy** - We’re about to go and do great things, let’s build energy
 
-* **Connectivity **- Needs to be effective for remote attendees
+* **Connectivity**- Needs to be effective for remote attendees
 
 ## Use of this game
 
