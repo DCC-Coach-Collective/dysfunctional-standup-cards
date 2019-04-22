@@ -1,6 +1,12 @@
 # dysfunctional-standup-cards
 dysfunctional-standup-cards
 
+## Use of this game
+
+This game is free to use, so long as the creators are attributed. Please do not use commercially.
+
+It is registered with the **Creative Commons Licence: CC BY-NC-SA 4.0**
+
 # Dysfunctional stand-up instructions
 
 ## Introduction
