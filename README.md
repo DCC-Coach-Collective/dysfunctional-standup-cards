@@ -107,7 +107,7 @@ The game is based on a set of good stand-up traits, listed below. Dysfunctions i
 
 * **Timely** - Focused on the immediate work, challenges and goals.  Start on time, finish when done  
 
-* **Attendee** (Attendy?, right people-y) Attendees should have a strong motivation for attending, which is likely to be a need to contribute to or understand work
+* **Attendee** - Attendees should have a strong motivation for attending, which is likely to be a need to contribute to or understand work
 
 * **Energy** - We’re about to go and do great things, let’s build energy
 
