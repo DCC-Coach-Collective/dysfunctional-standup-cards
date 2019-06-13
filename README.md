@@ -35,7 +35,7 @@ You might find a timer, and a space where you can make some noise handy.
 
 ### Guess the dysfunction (Facilitator Mode)  
 
-#### Game Objective: Facilitator must guess each dysfunction displayed by attendees.
+#### Game Objective: Facilitator must guess each dysfunction displayed by attendees
 
 #### Game play
 
@@ -51,7 +51,7 @@ You might find a timer, and a space where you can make some noise handy.
 
 ### Guess the dysfunction (Attendee mode)
 
-#### Game objective: Attendees must guess the dysfunction(s) displayed by the facilitator.
+#### Game objective: Attendees must guess the dysfunction(s) displayed by the facilitator
 
 1. Agree a duration for the stand-up based on the number of people attending.
 
@@ -79,7 +79,7 @@ You might find a timer, and a space where you can make some noise handy.
 
 5. The facilitator aims to keep the stand-up together until the specified duration.
 
-## Purpose of a Stand Up.
+## Purpose of a Stand Up
 
 We assume a stand up meeting aims to:
 
