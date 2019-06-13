@@ -4,10 +4,13 @@ dysfunctional-standup-cards by DCC Coach Collective @DCCcoach
 DCC Coach Collective:
 
 On Twitter - @DccCoach https://twitter.com/DccCoach
+
 On Medium - https://medium.com/dcc-coach-collective
+
 On Github - https://github.com/DCC-Coach-Collective/
 
 Dysfunctional-standup-cards on github:
+
 https://github.com/DCC-Coach-Collective/dysfunctional-standup-cards/blob/master/README.md
 
 ## Use of this game
